@@ -1,5 +1,5 @@
 # 激战华强-自制小游戏
-中国国内仓库（gitee）：https://gitee.com/mackyinsuSU/HQ
+*中国国内仓库（gitee）：https://gitee.com/mackyinsuSU/HQ*
 
 # 介绍
 激战华强-自制小游戏 
@@ -34,3 +34,14 @@
 ** ： 程序是在win7上开发的，目前仅支持Windows x64平台 如果你的Windows版本大于win7，且点击之后没有反应，请使用兼容模式打开（具体可以上浏览器搜搜如何使用兼容模式打开软件） 
 
 这只是1.0版本，未来除了加入音效以及优化外，我还决定加入更多鬼畜角色以及枪械系统
+
+# 鸣谢
+HJQ：纹理制作
+
+Hidrag：帮助编写
+
+华强素材：https://www.bilibili.com/video/BV1o64y1h7Ck/
+
+杰哥+阿伟素材：https://www.bilibili.com/video/BV14r4y127he/
+
+另外还使用了很多UP主提供的素材，在此表达感谢！如果您看到后，请及时联系我并附上视频出处
