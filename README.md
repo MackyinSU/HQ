@@ -1,11 +1,13 @@
 # 激战华强-自制小游戏
+中国国内仓库（gitee）：https://gitee.com/mackyinsuSU/HQ
 
-介绍
+# 介绍
 激战华强-自制小游戏 
 使用【Raylib】图形库制作的鬼畜·游戏（图形库官网www.raylib.com）
 
 # 安装教程
-下载地址：https://wwfz.lanzoum.com/itBWI15rhzpg 资源包是hq文件夹 解压后运行里面的exe文件 输入图片说明 输入图片说明
+下载地址：https://wwfz.lanzoum.com/itBWI15rhzpg 
+资源包是hq文件夹，解压后运行里面的exe文件
 
 使用方法： 1，按下D前进，A后退，w或空格键跳跃
 
