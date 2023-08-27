@@ -1,5 +1,5 @@
 # 激战华强-自制小游戏
-*中国国内仓库（gitee）：https://gitee.com/mackyinsuSU/HQ*
+*Github仓库：https://github.com/MackyinSU/HQ/*
 
 # 介绍
 激战华强-自制小游戏 
