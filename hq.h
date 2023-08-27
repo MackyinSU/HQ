@@ -1,0 +1,96 @@
+/*
+  激战华强-游戏源代码
+  使用 MinGW-w64 GCC 11.2.0 64-bit编译
+  Made by Macky（程序编写），HJQ（材质制作），Hidrag（程序编写）
+  激战华强游戏开源许可证
+  您对“软件”的复制、使用、修改及分发受本许可证的如下条款的约束：
+  
+  0. 定义
+  
+  “软件”是指由“贡献”构成的许可在“本许可证”下的程序和相关文档的集合。
+  
+  “贡献”是指由任一“贡献者”许可在“本许可证”下的受版权法保护的作品。
+  
+  “贡献者”是指将受版权法保护的作品许可在“本许可证”下的自然人或“法人实体”。
+  
+  “法人实体”是指提交贡献的机构及其“关联实体”。
+  
+  “关联实体”是指，对“本许可证”下的行为方而言，控制、受控制或与其共同受控制的机构，此处的控制是指有受控方或共同受控方至少50%直接或间接的投票权、资金或其他有价证券。
+  
+  1. 授予版权许可
+  
+  每个“贡献者”根据“本许可证”授予您永久性的、全球性的、免费的、非独占的、不可撤销的版权许可，您可以在非盈利的前提下复制、使用、修改、分发其“贡献”，不论修改与否。如果用作盈利，软件作者和“贡献者”有保留追究责任的权利
+  
+  2. 授予专利许可
+  
+  每个“贡献者”根据“本许可证”授予您永久性的、全球性的、免费的、非独占的、不可撤销的（根据本条规定撤销除外）专利许可，供您制造、委托制造、使用、许诺销售、销售、进口其“贡献”或以其他方式转移其“贡献”。前述专利许可仅限于“贡献者”现在或将来拥有或控制的其“贡献”本身或其“贡献”与许可“贡献”时的“软件”结合而将必然会侵犯的专利权利要求，不包括对“贡献”的修改或包含“贡献”的其他结合。如果您或您的“关联实体”直接或间接地，就“软件”或其中的“贡献”对任何人发起专利侵权诉讼（包括反诉或交叉诉讼）或其他专利维权行动，指控其侵犯专利权，则“本许可证”授予您对“软件”的专利许可自您提起诉讼或发起维权行动之日终止。
+  
+  3. 无商标许可
+  
+  “本许可证”不提供对“贡献者”的商品名称、商标、服务标志或产品名称的商标许可，但您为满足第4条规定的声明义务而必须使用除外。
+  
+  4. 分发限制
+  
+  您可以在任何媒介中将“软件”以源程序形式或可执行形式重新分发，不论修改与否，但您必须向接收者提供“本许可证”的副本，并保留“软件”中的版权、商标、专利及免责声明。
+  
+  5. 免责声明与责任限制
+  
+  “软件”及其中的“贡献”在提供时不带任何明示或默示的担保。在任何情况下，“贡献者”或版权所有者不对任何人因使用“软件”或其中的“贡献”而引发的任何直接或间接损失以及引发的法律后果承担责任，不论因何种原因导致或者基于何种法律理论，即使其曾被建议有此种损失的可能性。 
+  
+  6. 语言
+  “本许可证”以中英文双语表述，中英文版本具有同等法律效力。如果中英文版本存在任何冲突不一致，以中文版为准。
+  
+  上面文字为中文版本，以下是英文版本
+  
+  The OPEN-SOURCE LICENSE of the game "Fierce Battle of HuaQiang"
+  
+  Your copying, use, modification, and distribution of the Software are subject to the following terms of this license:
+  
+  0. Definition
+  
+  "Software" refers to the collection of programs and related documents licensed under this License consisting of "Contributions".
+  
+  Contribution "refers to a work licensed by any" contributor "under this license and protected by copyright law.
+  
+  "Contributor" refers to a natural person or "legal entity" who licenses a work protected by copyright law under this license.
+  
+  "Legal entity" refers to the institution and its "affiliated entities" that submit contributions.
+  
+  Related entity "refers to an institution controlled, controlled, or jointly controlled by the parties under this license, where control refers to having at least 50% of the direct or indirect voting rights, funds, or other securities of the controlled party or jointly controlled party.
+  
+  1. Grant Copyright License
+  
+  Each Contributor grants you a permanent, global, free, non-exclusive, and irrevocable copyright license under this License, allowing you to copy, use, modify, and distribute their Contributions without profit, whether modified or not. If used for profit, software authors and "contributors" reserve the right to pursue responsibility
+  
+  2. Grant Patent License
+  
+  Each Contributor grants you a permanent, global, free, non-exclusive, and irrevocable (except for those revoked in accordance with this section) patent license under this License to manufacture, commission, use, promise to sell, sell, import, or otherwise transfer their Contributions. The aforementioned patent license is limited to patent claims that the "contributor" now or in the future owns or controls its "contribution" itself or that will inevitably be infringed by the combination of its "contribution" and the "software" at the time of licensing the "contribution", and does not include modifications to the "contribution" or other combinations containing the "contribution". If you or your "affiliated entities" directly or indirectly initiate patent infringement litigation (including counterclaims or cross litigation) or other patent protection actions against anyone regarding the "software" or its "contributions", accusing them of infringing patent rights, then the patent license granted to you by "this license" shall terminate from the date of filing the lawsuit or initiating the protection action.
+  
+  3. No trademark license
+  
+  This license does not provide a trademark license for the product name, trademark, service mark, or product name of the Contributor, unless you are required to use it in order to fulfill your declaration obligations under Article 4.
+  
+  4. Distribution Restrictions
+  
+  You may redistribute the Software in source program or executable form in any medium, whether modified or not, but you must provide a copy of this License to the recipient and retain the copyrights, trademarks, patents, and disclaimers in the Software.
+  
+  5. Disclaimer and Limitation of Liability
+  
+  The software and its contributions are provided without any express or implied warranties.
+  
+  6. Language
+  
+  This license is expressed in both Chinese and English, and the Chinese and English versions have equal legal effect. If there is any conflict or inconsistency between the Chinese and English versions, the Chinese version shall prevail.
+ */ 
+#ifndef HQ_H
+#define HQ_H
+#include<vector>
+#include<raylib.h>
+void mapmake(int seed,int length);
+std::vector<int> getpos(int x,int size);
+void Tc(Image &img,int x,int y);
+bool IsMouseTouchActor(Image &img,int x,int y);
+int hy(int a,int b);
+bool IsMouseTouchT(Texture &img,int x,int y);
+int roundi(float i);
+#endif
