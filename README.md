@@ -8,7 +8,7 @@
 使用【Raylib】图形库制作的鬼畜·游戏（图形库官网www.raylib.com）
 
 # 安装教程
-最新版本下载地址：https://wwfz.lanzoum.com/itBWI15rhzpg *或* 在发行版中下载想要的版本
+最新版本下载地址：https://wwfz.lanzoum.com/iUxpA16nc7za *或* 在发行版中下载想要的版本
 资源包是hq文件夹，解压后运行里面的exe文件
 
 # 使用方法： 
