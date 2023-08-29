@@ -3,6 +3,7 @@
 
 *中国国内仓库gitee：https://gitee.com/mackyinsuSU/HQ*
 
+*视频：https://www.bilibili.com/video/BV1j8411z7oT*
 # 介绍
 激战华强-自制小游戏 
 使用【Raylib】图形库制作的鬼畜·游戏（图形库官网www.raylib.com）
