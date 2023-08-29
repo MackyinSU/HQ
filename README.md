@@ -16,7 +16,7 @@
 总之，这是一个好康的新游戏。疑一时，误一世，疑久疑久罢宜龄！还犹豫什么？下载下来尝尝鲜吧！
 ![输入图片说明](picture/jzhq2.png)
 # 安装教程
-最新版本下载地址：https://macky.lanzoum.com/ilyny16sg36b *或* 在发行版中下载想要的版本
+最新版本下载地址：https://macky.lanzoum.com/ilyny16sg36b （密码password：0829）*或* 在发行版中下载想要的版本
 资源包是hq文件夹
 
 1.0版本解压后运行里面的exe文件
